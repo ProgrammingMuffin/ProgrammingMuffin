@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on JAMQ (Distributed Redundant Cloud Native In-Memory Queue)
-- 🌱 I’m currently learning C++
+- 🔭 I’m currently working on a small game engine for fun
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: fun facts are fun
